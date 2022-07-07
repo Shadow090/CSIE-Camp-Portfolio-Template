@@ -9,7 +9,7 @@ const projects = [
     {
         name: "製作個人網站？",
         description: "This is a project description. " + random_text(64),
-        image: "https://picsum.photos/640/320",
+        image: "NurmengardSOD.webp",
         link: "https://github.com",
         tags: ["tag1", "tag2", "tag3"],
     },
